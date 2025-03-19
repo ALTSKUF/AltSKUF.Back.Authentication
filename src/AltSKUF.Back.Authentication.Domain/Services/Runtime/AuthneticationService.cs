@@ -47,8 +47,8 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
         public string GetServiceToken()
         {
             DateTime now = DateTime.Now;
-                TimeSpan.FromMinutes(
-                    int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes)));
+            TimeSpan.FromMinutes(
+                int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes));
 
             string token = JwtExtensions.GenerateToken(new()
             {
