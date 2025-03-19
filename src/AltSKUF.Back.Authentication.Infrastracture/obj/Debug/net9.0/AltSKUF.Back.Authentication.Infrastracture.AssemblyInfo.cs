@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AltSKUF.Back.Authentication.Infrastracture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131cd54d7110aaf281cb512fc73ee824e62f3bf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AltSKUF.Back.Authentication.Infrastracture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AltSKUF.Back.Authentication.Infrastracture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\controllers\\tokenscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\controllers\\tokenscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\appsettings.json",
+              "RelativeToolTip": "AltSKUF.Back.Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T00:43:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthneticationService.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:17:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:05:52.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Program.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:04:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokensControllers.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:04:08.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

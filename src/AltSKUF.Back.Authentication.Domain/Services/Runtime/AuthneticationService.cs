@@ -47,7 +47,6 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
         public string GetServiceToken()
         {
             DateTime now = DateTime.Now;
-            DateTime accessExpirationTime = now.Add(
                 TimeSpan.FromMinutes(
                     int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes)));
 

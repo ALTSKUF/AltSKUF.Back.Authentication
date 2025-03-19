@@ -1,18 +1,8 @@
 [
   {
     "ContainingType": "AltSKUF.Back.Authentication.Controllers.TokensControllers",
-    "Method": "GetServiceToken",
-    "RelativePath": "Tokens/Services",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "AltSKUF.Back.Authentication.Controllers.TokensControllers",
     "Method": "GetTokens",
-    "RelativePath": "Tokens/User/Get",
+    "RelativePath": "Tokens/Get",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -28,7 +18,17 @@
   {
     "ContainingType": "AltSKUF.Back.Authentication.Controllers.TokensControllers",
     "Method": "RefreshTokens",
-    "RelativePath": "Tokens/User/Refresh",
+    "RelativePath": "Tokens/Refresh",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltSKUF.Back.Authentication.Controllers.TokensControllers",
+    "Method": "GetServiceToken",
+    "RelativePath": "Tokens/Services",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
