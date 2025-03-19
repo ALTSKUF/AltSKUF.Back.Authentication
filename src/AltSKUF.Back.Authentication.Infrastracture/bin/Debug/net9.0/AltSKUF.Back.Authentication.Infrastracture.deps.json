@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AltSKUF.Back.Authentication.Infrastracture/1.0.0": {
+        "runtime": {
+          "AltSKUF.Back.Authentication.Infrastracture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltSKUF.Back.Authentication.Infrastracture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
