@@ -1,5 +1,4 @@
 ﻿using AltSKUF.Back.Authentication.Domain.Extensions;
-using Microsoft.Extensions.Caching.Memory;
 using Quartz;
 
 namespace AltSKUF.Back.Authentication.Domain.Scheduler.Jobs
@@ -12,7 +11,6 @@ namespace AltSKUF.Back.Authentication.Domain.Scheduler.Jobs
 
             TokensSingleton.Singleton.UpdateRefreshSecret(newSecret);
 
-            Console.WriteLine("refresh");
             return Task.CompletedTask;
         }
     }

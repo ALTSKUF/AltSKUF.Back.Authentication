@@ -11,7 +11,6 @@ namespace AltSKUF.Back.Authentication.Domain.Scheduler.Jobs
 
             TokensSingleton.Singleton.UpdateAccessSecret(newSecret);
 
-            Console.WriteLine("access");
             return Task.CompletedTask;
         }
     }

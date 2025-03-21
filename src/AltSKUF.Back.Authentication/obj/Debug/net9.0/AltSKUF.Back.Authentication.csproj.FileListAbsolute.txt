@@ -42,7 +42,6 @@ C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Bac
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AltSKUF.Back.Authentication.props
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AltSKUF.Back.Authentication.props
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\AltSKUF..E5770438.Up2Date
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\AltSKUF.Back.Authentication.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\refint\AltSKUF.Back.Authentication.dll
@@ -57,3 +56,4 @@ C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Bac
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

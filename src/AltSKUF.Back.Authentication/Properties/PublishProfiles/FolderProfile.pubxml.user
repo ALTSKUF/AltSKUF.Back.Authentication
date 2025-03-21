@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2025-03-20T16:10:48.7319861Z||;True|2025-03-20T19:03:59.7543661+03:00||;True|2025-03-20T18:49:42.0140117+03:00||;False|2025-03-20T18:49:22.5723792+03:00||;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Release\net9.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

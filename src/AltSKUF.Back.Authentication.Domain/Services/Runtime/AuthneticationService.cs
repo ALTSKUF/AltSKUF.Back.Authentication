@@ -15,7 +15,7 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
             DateTime now = DateTime.Now;
             DateTime accessExpirationTime = now.Add(
                 TimeSpan.FromMinutes(
-                    int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes)));
+                    int.Parse(Configuration.Singleton.AccessExpirationTimeInMinutes)));
             DateTime refreshExpirationTime = now.Add(
                 TimeSpan.FromMinutes(
                     int.Parse(Configuration.Singleton.RefreshExpirationTimeInMinutes)));
@@ -48,7 +48,7 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
         {
             DateTime now = DateTime.Now;
                 TimeSpan.FromMinutes(
-                    int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes)));
+                    int.Parse(Configuration.Singleton.AccessExpirationTimeInMinutes));
 
             string token = JwtExtensions.GenerateToken(new()
             {

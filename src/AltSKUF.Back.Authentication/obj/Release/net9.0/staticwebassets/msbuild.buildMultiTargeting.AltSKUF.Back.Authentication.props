@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AltSKUF.Back.Authentication.props" />
+</Project>

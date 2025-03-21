@@ -10,13 +10,6 @@ namespace AltSKUF.Back.Authentication.Controllers
     public class TokensControllers(
         IAuthenticationService authenticationService) : Controller
     {
-        [HttpGet("Services")]
-        public IActionResult GetServiceToken()
-        {
-            try { return Ok(authenticationService.GetServiceToken()); }
-            catch (Exception ex) { return BadRequest(ex.Message); }
-        }
-
         [Authorize("Services")]
         [HttpGet("Get")]
         public IActionResult GetTokens(

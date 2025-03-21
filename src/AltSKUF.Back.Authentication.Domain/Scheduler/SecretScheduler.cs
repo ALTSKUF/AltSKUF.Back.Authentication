@@ -22,7 +22,7 @@ namespace AltSKUF.Back.Authentication.Domain.Scheduler
                 .StartNow()                            
                 .WithSimpleSchedule(_ => _
                     .WithIntervalInMinutes(
-                        int.Parse(Configuration.Singleton.AccesExpirationTimeInMinutes) * 5)
+                        int.Parse(Configuration.Singleton.AccessExpirationTimeInMinutes) * 5)
                     .RepeatForever())                   
                 .Build();                               
 

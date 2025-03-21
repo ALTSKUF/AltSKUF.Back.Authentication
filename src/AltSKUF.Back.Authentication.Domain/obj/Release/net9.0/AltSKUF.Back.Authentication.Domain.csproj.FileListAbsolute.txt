@@ -1,0 +1,16 @@
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.csproj.AssemblyReference.cache
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.AssemblyInfoInputs.cache
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.AssemblyInfo.cs
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.sourcelink.json
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\bin\Release\net9.0\AltSKUF.Back.Authentication.Domain.deps.json
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\bin\Release\net9.0\AltSKUF.Back.Authentication.Domain.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\bin\Release\net9.0\AltSKUF.Back.Authentication.Domain.pdb
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\bin\Release\net9.0\AltSKUF.Back.Authentication.Infrastracture.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\bin\Release\net9.0\AltSKUF.Back.Authentication.Infrastracture.pdb
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF..1ACF55B3.Up2Date
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\refint\AltSKUF.Back.Authentication.Domain.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\AltSKUF.Back.Authentication.Domain.pdb
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Domain\obj\Release\net9.0\ref\AltSKUF.Back.Authentication.Domain.dll
