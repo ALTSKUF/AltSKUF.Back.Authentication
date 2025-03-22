@@ -1,20 +1,17 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using Microsoft.IdentityModel.Tokens;
 
-namespace AltSKUF.Back.Authentication.Domain
+namespace AltSKUF.Back.Authentication.Domain.Extensions
 {
-    public class TokensSingleton
+    public static class SecretExtensions
     {
-        public static TokensSingleton Singleton { get; set; } = new();
+        public static SymmetricSecurityKey? AccessTokenSecret { get; private set; }
+        public static SymmetricSecurityKey? PreviousAccessTokenSecret { get; private set; }
 
-        public SymmetricSecurityKey? AccessTokenSecret { get; private set; }
-        public SymmetricSecurityKey? PreviousAccessTokenSecret { get; private set; }
+        public static SymmetricSecurityKey? RefreshTokenSecret { get; private set; }
+        public static SymmetricSecurityKey? PreviousRefreshTokenSecret { get; private set; }
 
-        public SymmetricSecurityKey? RefreshTokenSecret { get; private set; }
-        public SymmetricSecurityKey? PreviousRefreshTokenSecret { get; private set; }
-
-        public void UpdateAccessSecret(string secret)
+        public static void UpdateAccessSecret(string secret)
         {
             var key = ToSymmetricSecurityKey(secret);
             if (PreviousAccessTokenSecret == null)
@@ -28,8 +25,8 @@ namespace AltSKUF.Back.Authentication.Domain
                 AccessTokenSecret = key;
             }
         }
-        
-        public void UpdateRefreshSecret(string secret)
+
+        public static void UpdateRefreshSecret(string secret)
         {
             var key = ToSymmetricSecurityKey(secret);
             if (PreviousRefreshTokenSecret == null)
@@ -49,5 +46,4 @@ namespace AltSKUF.Back.Authentication.Domain
             return new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));
         }
     }
-
 }

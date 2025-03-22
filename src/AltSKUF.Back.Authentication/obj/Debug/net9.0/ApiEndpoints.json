@@ -24,15 +24,5 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "AltSKUF.Back.Authentication.Controllers.TokensControllers",
-    "Method": "GetServiceToken",
-    "RelativePath": "Tokens/Services",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
   }
 ]

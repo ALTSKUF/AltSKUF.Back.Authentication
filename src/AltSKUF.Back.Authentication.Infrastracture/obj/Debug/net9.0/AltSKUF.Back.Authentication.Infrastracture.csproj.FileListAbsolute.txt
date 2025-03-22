@@ -10,3 +10,4 @@ C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Bac
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Infrastracture\obj\Debug\net9.0\refint\AltSKUF.Back.Authentication.Infrastracture.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Infrastracture\obj\Debug\net9.0\AltSKUF.Back.Authentication.Infrastracture.pdb
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Infrastracture\obj\Debug\net9.0\ref\AltSKUF.Back.Authentication.Infrastracture.dll
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication.Infrastracture\obj\Debug\net9.0\AltSKUF.Back.Authentication.Infrastracture.csproj.AssemblyReference.cache

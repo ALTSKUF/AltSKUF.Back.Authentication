@@ -57,3 +57,4 @@ C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Bac
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\wenawo\source\repos\ALTSKUF\AltSKUF.Back.Authentication\src\AltSKUF.Back.Authentication\bin\Debug\net9.0\Refit.dll

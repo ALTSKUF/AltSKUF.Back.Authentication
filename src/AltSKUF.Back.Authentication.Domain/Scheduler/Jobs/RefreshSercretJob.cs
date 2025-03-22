@@ -9,7 +9,7 @@ namespace AltSKUF.Back.Authentication.Domain.Scheduler.Jobs
         {
             var newSecret = JwtExtensions.GenerateSecret();
 
-            TokensSingleton.Singleton.UpdateRefreshSecret(newSecret);
+            SecretExtensions.UpdateRefreshSecret(newSecret);
 
             return Task.CompletedTask;
         }

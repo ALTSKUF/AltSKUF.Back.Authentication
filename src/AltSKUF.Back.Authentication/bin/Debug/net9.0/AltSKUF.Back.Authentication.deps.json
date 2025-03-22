@@ -244,6 +244,14 @@
           }
         }
       },
+      "Refit/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Refit.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.1"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Swagger/8.0.0": {
         "dependencies": {
           "Microsoft.OpenApi": "1.6.23"
@@ -303,6 +311,9 @@
         }
       },
       "AltSKUF.Back.Authentication.Infrastracture/1.0.0": {
+        "dependencies": {
+          "Refit": "8.0.0"
+        },
         "runtime": {
           "AltSKUF.Back.Authentication.Infrastracture.dll": {
             "assemblyVersion": "1.0.0",
@@ -471,6 +482,13 @@
       "sha512": "sha512-kbxBND5Nift+qwOud8cjywoLvjcQX+aLt6R7qQcQVg8w84NUNjTsjzZ5zIod9vz7ricSvIaQXGVbhpm7X6yVQA==",
       "path": "quartz.extensions.hosting/3.14.0",
       "hashPath": "quartz.extensions.hosting.3.14.0.nupkg.sha512"
+    },
+    "Refit/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gXRmIy3Va0mwwr8usnqVRQFoFIJaJGlWTTXBlwxIkHB/xwXnq1Ybs1YNA2BM1O4G46JLLlGjg6YOwrTZusuY3Q==",
+      "path": "refit/8.0.0",
+      "hashPath": "refit.8.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/8.0.0": {
       "type": "package",

@@ -26,7 +26,7 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
                 Issuer = "AltSKUF.Back",
                 Claims = claims,
                 Expires = accessExpirationTime,
-                SymSecret = TokensSingleton.Singleton.AccessTokenSecret
+                SymSecret = SecretExtensions.AccessTokenSecret,
             });
             string rToken = JwtExtensions.GenerateToken(new()
             {
@@ -34,7 +34,7 @@ namespace AltSKUF.Back.Authentication.Domain.Services.Runtime
                 Issuer = "AltSKUF.Back",
                 Claims = [new("userId", userId.ToString())],
                 Expires = refreshExpirationTime,
-                SymSecret = TokensSingleton.Singleton.RefreshTokenSecret
+                SymSecret = SecretExtensions.RefreshTokenSecret
             });
 
             return new()

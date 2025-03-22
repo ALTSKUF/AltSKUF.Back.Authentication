@@ -10,8 +10,6 @@ builder.Services.AddOpenApi();
 
 builder.UseServiceExtensions();
 
-
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

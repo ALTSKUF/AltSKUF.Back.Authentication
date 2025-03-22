@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AltSKUF.Back.Authentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4caff48c84c71639c501fde219bb21f4bb5d0a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00f821e1c3fc038616a121ec7decb1d21a5ad24")]
 [assembly: System.Reflection.AssemblyProductAttribute("AltSKUF.Back.Authentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AltSKUF.Back.Authentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

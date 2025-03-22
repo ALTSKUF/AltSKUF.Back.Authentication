@@ -28,6 +28,25 @@ namespace AltSKUF.Back.Authentication.Domain.Extensions
             return encodedJwt;
         }
 
+        public static string GetServicesToken(List<Claim> claims)
+        {
+            DateTime now = DateTime.Now;
+            DateTime expirationTime = now.Add(
+                TimeSpan.FromMinutes(
+                    int.Parse(Configuration.Singleton.ServicesExpirationTimeInMinutes)));
+            var key = new SymmetricSecurityKey(Encoding.UTF8
+                .GetBytes(Configuration.Singleton.ServicesSercret));
+
+            var jwt = new JwtSecurityToken(
+            issuer: "AltSKUF.Back",
+            audience: "AltSKUF.Back",
+            claims: claims,
+            expires: expirationTime,
+            signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha384));
+
+            return new JwtSecurityTokenHandler().WriteToken(jwt);
+        }
+
         public static string GenerateSecret()
         {
             var rng = System.Security.Cryptography.RandomNumberGenerator.Create();

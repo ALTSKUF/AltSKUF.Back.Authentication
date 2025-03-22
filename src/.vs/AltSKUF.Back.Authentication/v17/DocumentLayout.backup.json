@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.infrastracture\\htppclient\\users\\controllers\\isecretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|solutionrelative:altskuf.back.authentication.infrastracture\\htppclient\\users\\controllers\\isecretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\controllers\\tokenscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\controllers\\tokenscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\altskuf.back.authentication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\altskuf.back.authentication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\scheduler\\secretscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\scheduler\\secretscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\altskuf.back.authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\altskuf.back.authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.infrastracture\\htppclient\\users\\runtime\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|solutionrelative:altskuf.back.authentication.infrastracture\\htppclient\\users\\runtime\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\scheduler\\jobs\\accesssecretjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +23,56 @@
       "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\scheduler\\jobs\\refreshsercretjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\scheduler\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\scheduler\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\extensions\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\extensions\\secretextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\extensions\\secretextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.infrastracture\\htppclient\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|solutionrelative:altskuf.back.authentication.infrastracture\\htppclient\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\scheduler\\secretscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\scheduler\\secretscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\services\\runtime\\authneticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.infrastracture\\altskuf.back.authentication.infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E9E7D67-38E1-4BCD-9657-23A48A2133FB}|AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj|solutionrelative:altskuf.back.authentication.infrastracture\\altskuf.back.authentication.infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication.domain\\altskuf.back.authentication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D96B62B1-6B03-4698-8297-6E4D9C4C198D}|AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj|solutionrelative:altskuf.back.authentication.domain\\altskuf.back.authentication.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|c:\\users\\wenawo\\source\\repos\\altskuf\\altskuf.back.authentication\\src\\altskuf.back.authentication\\altskuf.back.authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2B05358-034B-46F1-A0E0-943F6130E1D2}|AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj|solutionrelative:altskuf.back.authentication\\altskuf.back.authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,87 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:55:49.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RefreshSercretJob.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:03:39.537Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AccessSecretJob.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:03:35.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\appsettings.json",
               "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\appsettings.json",
               "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\appsettings.json",
               "RelativeToolTip": "AltSKUF.Back.Authentication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-19T00:43:42.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthneticationService.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwDIAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:17:42.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JwtExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:05:52.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TokensControllers.cs",
               "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
               "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
               "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
               "RelativeToolTip": "AltSKUF.Back.Authentication\\Controllers\\TokensControllers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T00:04:08.678Z",
               "EditorCaption": ""
@@ -158,32 +121,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AltSKUF.Back.Authentication.Domain",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T15:02:31.926Z",
+              "Title": "RefreshSercretJob.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\RefreshSercretJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:03:39.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AccessSecretJob.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Scheduler\\Jobs\\AccessSecretJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:03:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:55:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\JobFactory.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\JobFactory.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\JobFactory.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Scheduler\\JobFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:40:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Runtime\\UserService.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Runtime\\UserService.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Runtime\\UserService.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Runtime\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:37:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISecretController.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Controllers\\ISecretController.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Controllers\\ISecretController.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Controllers\\ISecretController.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\Controllers\\ISecretController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:37:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Extensions\\JwtExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:05:52.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Program.cs",
               "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\Program.cs",
               "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\Program.cs",
               "RelativeToolTip": "AltSKUF.Back.Authentication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T00:04:57.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Configuration.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Configuration.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Configuration.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:09:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecretExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\SecretExtensions.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Extensions\\SecretExtensions.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Extensions\\SecretExtensions.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Extensions\\SecretExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:52:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SecretScheduler.cs",
               "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Scheduler\\SecretScheduler.cs",
               "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Scheduler\\SecretScheduler.cs",
@@ -196,8 +263,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AltSKUF.Back.Authentication",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\IUserService.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Infrastracture\\HtppClient\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:36:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthneticationService.cs",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Services\\Runtime\\AuthneticationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:17:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AltSKUF.Back.Authentication.Infrastracture",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Infrastracture\\AltSKUF.Back.Authentication.Infrastracture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T09:35:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AltSKUF.Back.Authentication.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
+              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
+              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
+              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\AltSKUF.Back.Authentication.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T15:02:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AltSKUF.Back.Authentication.csproj",
               "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj",
               "RelativeDocumentMoniker": "AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj",
               "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication\\AltSKUF.Back.Authentication.csproj",
@@ -206,18 +325,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-21T14:55:36.62Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Configuration.cs",
-              "RelativeDocumentMoniker": "AltSKUF.Back.Authentication.Domain\\Configuration.cs",
-              "ToolTip": "C:\\Users\\wenawo\\source\\repos\\ALTSKUF\\AltSKUF.Back.Authentication\\src\\AltSKUF.Back.Authentication.Domain\\Configuration.cs",
-              "RelativeToolTip": "AltSKUF.Back.Authentication.Domain\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:09:13.865Z"
             }
           ]
         }

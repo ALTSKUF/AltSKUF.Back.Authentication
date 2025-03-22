@@ -8,6 +8,9 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.OpenApi.Models;
+using AltSKUF.Back.Authentication.Domain.Extensions;
+using AltSKUF.Back.Authentication.Infrastracture.HtppClient.Users;
+using AltSKUF.Back.Authentication.Infrastracture.HtppClient.Users.Runtime;
 
 namespace AltSKUF.Back.Authentication.Extensions
 {
@@ -17,6 +20,7 @@ namespace AltSKUF.Back.Authentication.Extensions
         {
             builder.ReadConfiguration();
             builder.AddServices();
+            builder.AddHttpClient();
             builder.AddScheduler();
             builder.AddAuth();
 
@@ -33,6 +37,15 @@ namespace AltSKUF.Back.Authentication.Extensions
         private static void AddServices(this WebApplicationBuilder builder)
         {
             builder.Services.AddScoped<IAuthenticationService, AuthneticationService>();
+        }
+
+        private static void AddHttpClient(this WebApplicationBuilder builder)
+        {
+            builder.Services.AddScoped<IUserService, UserService>(_ =>
+                new(new()
+                {
+                    BaseAddress = new(Configuration.Singleton.UserServiceUrl)
+                }));
         }
 
         private static void AddScheduler(this WebApplicationBuilder builder)
@@ -72,7 +85,8 @@ namespace AltSKUF.Back.Authentication.Extensions
                         ValidateLifetime = true,
                         IssuerSigningKeyResolver =
                             (token, secutiryToken, kid, validationParameters) =>
-                                [TokensSingleton.Singleton.RefreshTokenSecret, TokensSingleton.Singleton.PreviousRefreshTokenSecret],
+                                [SecretExtensions.RefreshTokenSecret,
+                                 SecretExtensions.PreviousRefreshTokenSecret],
                         ValidateIssuerSigningKey = true,
                     };
                 });
